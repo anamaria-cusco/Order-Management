@@ -1,0 +1,17 @@
+ORDER DETAILS
+
+Client 
+Name: John Smith
+Address: Adress 
+Phone Number: 049239723
+Email: john@yahoo.co
+
+Products:
+name            price           quantity       
+pen             3.75            4              
+scissors        5.5             2              
+pencil          2.2             10             
+rubber          5.6             8              
+
+Total: 92,80
+Date: 2021-04-20 12:44:28.374
